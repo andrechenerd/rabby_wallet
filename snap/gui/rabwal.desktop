@@ -1,8 +1,8 @@
 [Desktop Entry]
-Version=1.0.0
-Name=Rabby Wallet
-Comment=Rabby Wallet : Crypto Wallet
-Exec=rabwal
-Icon=${SNAP}/meta/gui/rabwal.png 
+Version=VERSION
+Name=NAME_EXTENDEND
+Comment=NAME_COMMENT
+Exec=NAME
+Icon=${SNAP}/meta/gui/NAME.png 
 Terminal=false
 Type=Application
