@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0.0
+Name=Rabby Wallet
+Comment=Rabby Wallet : Crypto Wallet
+Exec=rabwal
+Icon=${SNAP}/meta/gui/rabwal.png 
+Terminal=false
+Type=Application
